@@ -181,7 +181,7 @@
             
             runAsyncMethods();
             /*tempoVizualizacaoStories = setInterval(visualizaStorie,nAVisualizador());*/
-            /* Teste bhjkfhkjgfjaaa */
+            /* Teste bhjkfhkjgfjaaabbb */
 
         }else{
 
